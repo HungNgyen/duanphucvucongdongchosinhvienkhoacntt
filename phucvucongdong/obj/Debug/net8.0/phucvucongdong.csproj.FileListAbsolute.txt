@@ -179,3 +179,4 @@ D:\nam4\ki2\doantotnghiep\phucvucongdong\bin\Debug\net8.0\Google.Apis.Gmail.v1.d
 D:\nam4\ki2\doantotnghiep\phucvucongdong\bin\Debug\net8.0\System.Management.dll
 D:\nam4\ki2\doantotnghiep\phucvucongdong\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
 D:\nam4\ki2\doantotnghiep\phucvucongdong\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\nam4\ki2\doantotnghiep\phucvucongdong\obj\Debug\net8.0\phucvucongdong.sourcelink.json
