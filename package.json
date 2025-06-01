@@ -23,11 +23,5 @@
   },
   "devDependencies": {
     "@types/chart.js": "^2.9.41"
-  },
-
-  "scripts": {
-    "start": "node server.js", 
-    "build": "npm install", 
-    "dev": "nodemon server.js" 
-}
+  }
 }
